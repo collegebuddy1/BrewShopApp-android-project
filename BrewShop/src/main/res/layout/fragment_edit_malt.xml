@@ -1,0 +1,214 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/FillParent">
+
+    <LinearLayout style="@style/FillParent"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:id="@+id/root_view"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+        <TextView style="@style/CardTitle"
+            android:id="@+id/malt_addition_title"
+            android:text="Malt Addition"/>
+
+        <TextView
+            android:id="@+id/showing_inventory_only"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Inventory Only"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/text_dark_secondary"
+            android:textSize="14sp"
+            android:padding="2dp"
+            android:layout_marginRight="8dp"/>
+
+        </RelativeLayout>
+
+        <android.support.v7.widget.CardView style="@style/Card">
+
+        <LinearLayout
+            style="@style/FillParent"
+            android:background="@color/color_white"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/spinner_label"
+                    style="@style/RecipeEditLabel"
+                    android:text="@string/malt_type" />
+
+                <Spinner style="@style/MySpinner"
+                    android:id="@+id/malt_type"/>
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/custom_malt_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/RecipeEditLabel"
+                    android:text="Name" />
+
+                <EditText
+                    android:id="@+id/custom_name"
+                    style="@style/RecipeEditValue"
+                    android:layout_width="fill_parent"
+                    android:hint="Malt name"
+                    android:gravity="start|bottom"
+                    android:inputType="textCapWords|textNoSuggestions"
+                    android:maxLength="32">
+                </EditText>
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/mashed_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <View style="@style/RecipeEditLabel"/>
+
+                <CheckBox
+                    android:id="@+id/is_mashed"
+                    style="@style/RecipeEditValue"
+                    android:layout_width="fill_parent"
+                    android:maxLength="99"
+                    android:text="Mashed"
+                    android:gravity="center|left">
+                </CheckBox>
+
+            </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/RecipeEditLabel"
+                    android:text="Weight" />
+
+                <EditText style="@style/RecipeEditValue"
+                    android:id="@+id/malt_weight"
+                    android:hint=""
+                    android:inputType="numberDecimal"
+                    android:maxLength="5">
+                    </EditText>
+
+                <TextView
+                    style="@style/RecipeEditUnit"
+                    android:id="@+id/malt_weight_units"
+                    android:text="@string/lb"
+                    android:layout_marginRight="10dp"/>
+
+                <LinearLayout
+                    android:id="@+id/ounces_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <EditText style="@style/RecipeEditValue"
+                    android:id="@+id/malt_weight_oz"
+                    android:hint=""
+                    android:inputType="numberDecimal"
+                    android:maxLength="5"/>
+
+                <TextView
+                    style="@style/RecipeEditUnit"
+                    android:text="oz" />
+
+              </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/RecipeEditLabel"
+                    android:text="Gravity" />
+
+                <EditText
+                    android:id="@+id/malt_gravity"
+                    style="@style/RecipeEditValue"
+                    android:inputType="numberDecimal"
+                    android:maxLength="5"/>
+
+                <TextView
+                    style="@style/RecipeEditUnit"
+                    android:text="/lb/gal" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/RecipeEditLabel"
+                    android:text="Color" />
+
+                <EditText
+                    android:id="@+id/malt_color"
+                    style="@style/RecipeEditValue"
+                    android:inputType="numberDecimal"
+                    android:maxLength="5"/>
+
+                <TextView
+                    style="@style/RecipeEditUnit"
+                    android:text="SRM" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <LinearLayout style="@style/FillParent"
+        android:id="@+id/description_layout"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+        <TextView style="@style/CardTitle"
+            android:text="Description"/>
+
+        <android.support.v7.widget.CardView style="@style/Card">
+
+            <TextView android:id="@+id/description"
+                android:background="@drawable/touchable"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:minHeight="48dp"
+                android:padding="5dp"
+                android:singleLine="false"
+                android:gravity="center_vertical"
+                android:text="Description"
+                android:textSize="14sp"/>
+
+        </android.support.v7.widget.CardView>
+        </LinearLayout>
+</LinearLayout>
+</ScrollView>

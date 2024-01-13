@@ -1,0 +1,81 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tabHost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/color_white">
+
+                <FrameLayout
+                    android:id="@+id/malt_tab"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                    <ListView
+                        android:id="@+id/malt_list"
+                        android:listSelector="@drawable/touchable"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" />
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/hops_tab"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                    <ListView
+                        android:id="@+id/hops_list"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:listSelector="@drawable/touchable" />
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/yeast_tab"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                    <ListView
+                        android:id="@+id/yeast_list"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" />
+
+                </FrameLayout>
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/inventory_message_view"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/inventory_empty"
+                android:textColor="@color/text_dark_secondary"
+                android:visibility="gone"
+                android:gravity="center"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/drawer_shadow_down" />
+        </RelativeLayout>
+    </LinearLayout>
+</TabHost>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">@string/brew_shop</string>
+    <string name="brew_shop">Brew Shop</string>
+    <string name="new_recipe">New Recipe</string>
+    <string name="open">Open</string>
+    <string name="new_malt">New Malt</string>
+    <string name="new_hops">New Hops</string>
+    <string name="new_yeast">New Yeast</string>
+    <string name="new_item">New Item</string>
+    <string name="edit_recipe">Edit Recipe</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_share">Share</string>
+    <string name="action_select_all">Select All</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="retrieve_error">Unable to retrieve product list.</string>
+    <string name="no_products">No products available.</string>
+    <string name="select_recipes">Select Recipes</string>
+    <string name="select_ingredients">Select Ingredients</string>
+    <string name="selected">selected</string>
+    <string name="no_recipes">You have no recipes</string>
+    <string name="deleted_recipes">Deleted %d recipes</string>
+    <string name="deleted_recipe">Recipe deleted</string>
+    <string name="deleted_ingredients">Deleted %d ingredients</string>
+    <string name="deleted_ingredient">Ingredient deleted</string>
+    <string name="deleted_items">Deleted %d items</string>
+    <string name="deleted_item">Item deleted</string>
+    <string name="max_recipes_reached">App has a %d recipe limit</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="max_ingredients_reached">Recipes have a %d ingredient limit</string>
+    <string name="max_inventory_reached">Inventory has a %d item limit</string>
+    <string name="no_ingredients">No ingredients</string>
+    <string name="unnamed_recipe">Unnamed Recipe</string>
+    <string name="add_recipe_notes">Add recipe notes&#8230;</string>
+    <string name="delete_selected_recipes">Delete %d recipes?</string>
+    <string name="delete_selected_ingredients">Delete %d ingredients?</string>
+    <string name="delete_selected_items">Delete %d items?</string>
+    <string name="delete_selected_recipe">Delete recipe?</string>
+    <string name="delete_selected_ingredient">Delete ingredient?</string>
+    <string name="delete_selected_item">Delete item?</string>
+    <string name="no_description">No description available.</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="add_yeast">Add Yeast</string>
+    <string name="none_available">None available</string>
+    <string name="varies">Varies</string>
+    <string name="bjcp_category">BJCP Category</string>
+    <string name="select_style">Select a style&#8230;</string>
+    <string name="no_style_selected">No style selected</string>
+    <string name="select_a_recipe">Select a recipe</string>
+    <string name="select_an_item">Select an item</string>
+    <string name="my_inventory">My Inventory</string>
+    <string name="custom_malt">Custom Malt</string>
+    <string name="custom_hop">Custom Hop</string>
+    <string name="custom_yeast">Custom Yeast</string>
+    <string name="add_item">Add Item</string>
+    <string name="select_items">Select Items</string>
+    <string name="inventory_empty">Inventory is empty</string>
+    <string name="inventory_malt">Inventory Malt</string>
+    <string name="inventory_hop">Inventory Hops</string>
+    <string name="inventory_yeast">Inventory Yeast</string>
+    <string name="show_inventory">Show Inventory</string>
+    <string name="hide_inventory">Hide Inventory</string>
+    <string name="remove_from_inventory">Remove From Inventory&#8230;</string>
+    <string name="confirm_remove_from_inventory">Remove these ingredients from your inventory?</string>
+    <string name="inventory_updated">Inventory updated</string>
+    <string name="inventory_only">Inventory Only</string>
+    <string name="show_all">Show All Types</string>
+    <string name="malt_type">Malt Type</string>
+    <string name="settings">Settings</string>
+    <string name="save_as_pdf">Save as PDF</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_pdf_file_name">Enter PDF File Name</string>
+    <string name="notes">Notes</string>
+
+    <!-- Navigation -->
+    <string name="homebrew_tools">Homebrew Tools</string>
+    <string name="my_recipes">My Recipes</string>
+    <string name="homebrew_shop">Shop Inventory</string>
+    <string name="beer">Beer</string>
+    <string name="wine">Wine</string>
+    <string name="coffee">Coffee</string>
+    <string name="homebrew_supplies">Brew Supplies</string>
+
+    <!-- Recipe Fragment Titles -->
+    <string name="edit_recipe_stats">Edit Recipe Stats</string>
+    <string name="edit_recipe_notes">Edit Notes</string>
+    <string name="edit_malt_addition">Edit Malt</string>
+    <string name="edit_hop_addition">Edit Hops</string>
+    <string name="edit_yeast_addition">Edit Yeast</string>
+
+    <!-- Ingredient Types -->
+    <string name="malt">Malt</string>
+    <string name="hops">Hops</string>
+    <string name="yeast">Yeast</string>
+    <string-array name="ingredient_types">
+        <item>@string/malt</item>
+        <item>@string/hops</item>
+        <item>@string/yeast</item>
+    </string-array>
+
+    <string-array name="new_recipe_types">
+        <item>@string/new_recipe</item>
+        <item>@string/open</item>
+    </string-array>
+
+    <string name="first_wort">First Wort</string>
+    <string name="boil">Boil</string>
+    <string name="whirlpool">Whirlpool</string>
+    <string name="dry_hop">Dry Hop</string>
+    <string-array name="hops_usage">
+        <item>@string/first_wort</item>
+        <item>@string/boil</item>
+        <item>@string/whirlpool</item>
+        <item>@string/dry_hop</item>
+    </string-array>
+
+    <string name="imperial">Imperial</string>
+    <string name="metric">Metric</string>
+    <string-array name="units">
+        <item>@string/imperial</item>
+        <item>@string/metric</item>
+    </string-array>
+
+    <string name="specific_gravity">Specific Gravity</string>
+    <string name="degrees_plato">° Plato</string>
+    <string-array name="extract_scales">
+        <item>@string/degrees_plato</item>
+        <item>@string/specific_gravity</item>
+    </string-array>
+
+    <string name="brew_shop_recipe_colon">Brew Shop Recipe: </string>
+    <string name="brew_shop_recipe">Brew Shop Recipe</string>
+    <string name="brew_shop_recipes">Brew Shop: Shared Recipes</string>
+    <string name="share_via">Share via&#8230;</string>
+
+    <string name="no_recipe_type">Not a valid recipe file.</string>
+    <string name="open_recipe">Open Recipes</string>
+    <string name="opened_recipe">Opened recipe</string>
+    <string name="opened_recipes">Opened %d recipes</string>
+    <string name="saved_recipes">Saved %d recipes</string>
+    <string name="saved_recipe">Saved recipe</string>
+    <string name="cannot_write_file">Failed to write to file %s</string>
+    <string name="open_recipe_progress">Opening recipe&#8230;</string>
+    <string name="save_recipe_progress">Saving recipe&#8230;</string>
+    <string name="open_recipes_progress">Opening recipe %1$s of %2$s&#8230;</string>
+    <string name="save_recipes_progress">Saving recipe %1$s of %2$s&#8230;</string>
+    <string name="imperial_calories">12oz. kCal</string>
+    <string name="metric_calories">330ml kCal</string>
+    <string name="gallon_abbrev">gal</string>
+    <string name="litres">litres</string>
+    <string name="grams">grams</string>
+    <string name="oz">oz</string>
+    <string name="kg">kg</string>
+    <string name="lb">lb</string>
+</resources>

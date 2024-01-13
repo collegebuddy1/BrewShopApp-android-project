@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_recipes">100</integer>
+    <integer name="max_ingredients">50</integer>
+    <integer name="max_inventory">200</integer>
+    <integer name="max_notes_characters">10000</integer>
+
+    <integer name="ingredient_index">0</integer>
+
+    <integer name="is_recipe_selected">0</integer>
+    <integer name="is_recipe_showing">0</integer>
+    <integer name="recipe_id">0</integer>
+</resources>

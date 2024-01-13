@@ -1,0 +1,719 @@
+{
+  "yeasts": [
+    {
+      "name": "German Ale™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 1007. A true top cropping yeast with low ester formation and a broad temperature range. Fermentation at higher temperatures may produce mild fruitiness. This powdery strain results in yeast that remains in suspension post fermentation. Beers mature rapidly, even when cold fermentation is used. Low or no detectable diacetyl."
+    },
+    {
+      "name": "American Wheat™",
+      "attenMin": 74,
+      "attenMax": 78,
+      "description": "Wyeast 1010. A strong fermenting, true top cropping yeast that produces a dry, slightly tart, crisp beer. Ideal for beers where low ester profile is desirable."
+    },
+    {
+      "name": "London Ale™ (Wyeast)",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 1028. A rich mineral profile that is bold and crisp with some fruitiness. Often used for higher gravity ales and when a high level of attenuation is desired."
+    },
+    {
+      "name": "American Ale™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 1056. Very clean, crisp flavor characteristics with low fruitiness and mild ester production. A very versatile yeast for styles that desire dominant malt and hop character. This strain makes a wonderful 'House' strain. Mild citrus notes develop with cooler 60-66°F (15-19ºC) fermentations. Normally requires filtration for bright beers."
+    },
+    {
+      "name": "Irish Ale™ (Wyeast)",
+      "attenMin": 71,
+      "attenMax": 75,
+      "description": "Wyeast 1084. This versatile yeast ferments extremely well in dark worts. It is a good choice for most high gravity beers. Beers fermented in the lower temperature range produce a dry, crisp profile with subtle fruitiness. Fruit and complex esters will increase when fermentation temperatures are above 64°F (18°C)."
+    },
+    {
+      "name": "British Ale™",
+      "attenMin": 73,
+      "attenMax": 75,
+      "description": "Wyeast 1098. This yeast allows malt and hop character to dominate the profile. It ferments dry and crisp, producing well-balanced beers with a clean and neutral finish. Ferments well down to 64°F (18°C)."
+    },
+    {
+      "name": "Whitbread Ale™ (Wyeast)",
+      "attenMin": 68,
+      "attenMax": 72,
+      "description": "Wyeast 1099. A mildly malty and slightly fruity fermentation profile. It is less tart and dry than Wyeast 1098 British Ale. With good flocculation characteristics, this yeast clears well without filtration. Low fermentation temperatures will produce a clean finish with a very low ester profile."
+    },
+    {
+      "name": "Ringwood Ale™",
+      "attenMin": 68,
+      "attenMax": 72,
+      "description": "Wyeast 1187. A top cropping yeast strain with unique fermentation and flavor characteristics. Expect distinct fruit esters with a malty, complex profile. Flocculation is high, and the beer will clear well without filtration. A thorough diacetyl rest is recommended after fermentation is complete. This strain can be a slow starter and fermenter."
+    },
+    {
+      "name": "American Ale II™",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "Wyeast 1272. With many of the best qualities that brewers look for when brewing American styles of beer, this strain’s performance is consistent and it makes great beer. This versatile strain is a very good choice for a 'House' strain. Expect a soft, clean profile with hints of nut, and a slightly tart finish. Ferment at warmer temperatures to accentuate hop character with an increased fruitiness. Or, ferment cool for a clean, light citrus character. It attenuates well and is reliably flocculent, producing bright beer without filtration."
+    },
+    {
+      "name": "Thames Valley Ale™",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "Wyeast 1275. This strain produces classic British bitters with a rich, complex flavor profile. The yeast has a light malt character, low fruitiness, low esters and is clean and well balanced."
+    },
+    {
+      "name": "London Ale III™",
+      "attenMin": 71,
+      "attenMax": 75,
+      "description": "Wyeast 1318. Originating from a traditional London brewery, this yeast has a wonderful malt and hop profile. It is a true top cropping strain with a fruity, very light and softly balanced palate. This strain will finish slightly sweet."
+    },
+    {
+      "name": "Northwest Ale™",
+      "attenMin": 67,
+      "attenMax": 71,
+      "description": "Wyeast 1332. One of the classic ale strains from a Northwest US Brewery. It produces a malty and mildly fruity ale with good depth and complexity."
+    },
+    {
+      "name": "British Ale II™",
+      "attenMin": 73,
+      "attenMax": 76,
+      "description": "Wyeast 1335. A classic British ale profile with good flocculation and malty flavor characteristics. It will finish crisp, clean and fairly dry."
+    },
+    {
+      "name": "Denny's Favorite 50",
+      "attenMin": 74,
+      "attenMax": 76,
+      "description": "Wyeast 1450. This terrific all-round yeast can be used for almost any beer style, and is a mainstay of one of our local homebrewers, Denny Conn. It is unique in that it produces a big mouthfeel and accentuates the malt, caramel, or fruit character of a beer without being sweet or under-attenuated."
+    },
+    {
+      "name": "West Yorkshire Ale",
+      "attenMin": 67,
+      "attenMax": 71,
+      "description": "Wyeast 1469. This strain produces ales with a full chewy malt flavor and character, but finishes dry, producing famously balanced beers. Expect moderate nutty and stone-fruit esters. Best used for the production of cask-conditioned bitters, ESB and mild ales. Reliably flocculent, producing bright beer without filtration."
+    },
+    {
+      "name": "Scottish Ale™",
+      "attenMin": 69,
+      "attenMax": 73,
+      "description": "Wyeast 1728. Our Scottish ale strain is ideally suited for the strong, malty ales of Scotland. This strain is very versatile, and is often used as a 'House' strain as it ferments neutral and clean. Higher fermentation temperatures will result in an increased ester profile."
+    },
+    {
+      "name": "London ESB Ale™",
+      "attenMin": 67,
+      "attenMax": 71,
+      "description": "Wyeast 1968. A very good cask conditioned ale strain, this extremely flocculant yeast produces distinctly malty beers. Attenuation levels are typically less than most other yeast strains which results in a slightly sweeter finish. Ales produced with this strain tend to be fruity, increasingly so with higher fermentation temperatures of 70-74°F (21-23° C). A thorough diacetyl rest is recommended after fermentation is complete. Bright beers are easily achieved within days without any filtration."
+    },
+    {
+      "name": "Kölsch™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 2565. This strain is a classic, true top cropping yeast strain from a traditional brewery in Cologne, Germany. Beers will exhibit some of the fruity character of an ale, with a clean lager like profile. It produces low or no detectable levels of diacetyl. This yeast may also be used to produce quick-conditioning pseudo-lager beers and ferments well at cold 55-60°F (13-16°C) range. This powdery strain results in yeast that remain in suspension post fermentation. It requires filtration or additional settling time to produce bright beers."
+    },
+    {
+      "name": "Belgian Abbey™",
+      "attenMin": 74,
+      "attenMax": 78,
+      "description": "Wyeast 1214. A widely used and alcohol tolerant Abbey yeast that is suitable for a variety of Belgian style ales. This strain produces a nice ester profile as well as slightly spicy alcohol notes. It can be slow to start; however, it attenuates well."
+    },
+    {
+      "name": "Belgian Strong Ale™ (Wyeast)",
+      "attenMin": 74,
+      "attenMax": 78,
+      "description": "Wyeast 1388. The classic choice for brewing golden strong ales. This alcohol tolerant strain will produce a complex ester profile balanced nicely with subtle phenolics. Malt flavors and aromas will remain even with a well attenuated dry, tart finish. This strain is prone to stalling at approximately 1.035; racking or slight aeration will encourage it to finish fermentation."
+    },
+    {
+      "name": "Belgian Abbey II™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 1762. An excellent yeast strain for use in Belgian dark strong ales. This strain has a relatively “clean profile” which allows a rich malt and distinctive ethanol character to shine. Delicate dried fruit esters can be produced when used at higher fermentation temperatures or in a high gravity wort."
+    },
+    {
+      "name": "Bavarian Wheat Blend™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 3056. This proprietary blend of a top-fermenting neutral ale strain and a Bavarian wheat strain is a great choice when a subtle German style wheat beer is desired. The complex esters and phenolics from the wheat strain are nicely softened and balanced by the neutral ale strain."
+    },
+    {
+      "name": "Weihenstephan Weizen™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 3068. The classic and most popular German wheat beer strain used worldwide. This yeast strain produces a beautiful and delicate balance of banana esters and clove phenolics. The balance can be manipulated towards ester production through increasing the fermentation temperature, increasing the wort density, and decreasing the pitch rate. Over pitching can result in a near complete loss of banana character. Decreasing the ester level will allow a higher clove character to be perceived. Sulfur is commonly produced, but will dissipate with conditioning. This strain is very powdery and will remain in suspension for an extended amount of time following attenuation. This is true top cropping yeast and requires fermenter headspace of 33%."
+    },
+    {
+      "name": "Belgian Lambic Blend™ ",
+      "attenMin": 70,
+      "attenMax": 80,
+      "description": "Wyeast 3278. This blend contains yeast and bacteria cultures important to the production of spontaneously fermented beers of the Lambic region. Specific proportions of a Belgian style ale strain, a sherry strain, two Brettanomyces strains, a Lactobacillus culture, and a Pediococcus culture produce the desirable flavor components of these beers as they are brewed in Brussels. Propagation of this culture is not recommended and will result in a change of the proportions of the individual components. This blend will produce a very dry beer due to the super-attenuative nature of the mixed cultures."
+    },
+    {
+      "name": "German Wheat™",
+      "attenMin": 70,
+      "attenMax": 76,
+      "description": "Wyeast 3333. A highly flocculent German wheat beer strain that is the perfect choice for use in Kristallweizen. This yeast strain produces a beautiful and delicate balance of banana esters and clove phenolics similar to the popular Wyeast 3068. However, this strain will sediment rapidly, resulting in bright beer without filtration. The balance can be manipulated towards ester production through increasing fermentation temperature, increasing the wort density, and decreasing the pitch rate. Over pitching can result in a near complete loss of banana character. Sulfur is commonly produced, but will dissipate with conditioning."
+    },
+    {
+      "name": "Forbidden Fruit™",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "Wyeast 3463. A widely used strain in the production of Witbier and Grand Cru. This yeast will produce spicy phenolics which are balanced nicely by a complex ester profile. The subtle fruit character and dry tart finish will complement wheat malt, orange peel and spice additions typical of Wits."
+    },
+    {
+      "name": "Belgian Ardennes™",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "Wyeast 3522. One of the great and versatile strains for the production of classic Belgian style ales. This strain produces a beautiful balance of delicate fruit esters and subtle spicy notes, with neither one dominating. Unlike many other Belgian style strains, this strain is highly flocculent and results in bright beers."
+    },
+    {
+      "name": "Bavarian Wheat™",
+      "attenMin": 70,
+      "attenMax": 76,
+      "description": "Wyeast 3638. A complex alternative to the standard German wheat strain profile. This strain produces apple, pear, and plum esters in addition to the dominant banana character. The esters are complemented nicely by clove and subtle vanilla phenolics. The balance can be manipulated towards ester production through increasing fermentation temperature, increasing the wort density, and decreasing the pitch rate. Over pitching can result in a near complete loss of banana character. Decreasing the ester level will allow a higher clove character to be perceived. Sulfur is commonly produced, but will dissipate with conditioning. This strain is very powdery and will remain in suspension for an extended amount of time following attenuation. This is true top cropping yeast and requires fermenter headspace of 33%."
+    },
+    {
+      "name": "French Saison",
+      "attenMin": 77,
+      "attenMax": 83,
+      "description": "Wyeast 3711. A very versatile strain that produces Saison or farmhouse style beers as well as other Belgian style beers that are highly aromatic (estery), peppery, spicy and citrusy. This strain enhances the use of spices and aroma hops, and is extremely attenuative but leaves an unexpected silky and rich mouthfeel. This strain can also be used to re-start stuck fermentations or in high gravity beers."
+    },
+    {
+      "name": "Belgian Saison™",
+      "attenMin": 76,
+      "attenMax": 80,
+      "description": "Wyeast 3724. This strain is the classic farmhouse ale yeast. A traditional yeast that is spicy with complex aromatics, including bubble gum. It is very tart and dry on the palate with a mild fruitiness. Expect a crisp, mildly acidic finish that will benefit from elevated fermentation temperatures. This strain is notorious for a rapid and vigorous start to fermentation, only to stick around 1.035 S.G. Fermentation will finish, given time and warm temperatures. Warm fermentation temperatures, at least 90°F (32°C), or the use of a secondary strain can accelerate attenuation."
+    },
+    {
+      "name": "Roeselare Ale Blend",
+      "attenMin": 80,
+      "attenMax": 80,
+      "description": "Wyeast 3763. A blend of lambic cultures produce beer with a complex, earthy profile and a distinctive pie cherry sourness. Aging up to 18 months is required for a full flavor profile and acidity to develop. Specific proportions of a Belgian style ale strain, a sherry strain, two Brettanomyces strains, a Lactobacillus culture, and a Pediococcus culture produce the desirable flavor components of these beers as they are brewed in West Flanders. Propagation of this culture is not recommended and will result in a change of the proportions of the individual components. This blend will produce a very dry beer due to the super-attenuative nature of the mixed cultures."
+    },
+    {
+      "name": "Trappist High Gravity™",
+      "attenMin": 74,
+      "attenMax": 78,
+      "description": "Wyeast 3787. A classic strain for brewing Belgian dubbel or Belgian tripel. This Abbey strain produces a nice balance of complex fruity esters and phenolics, making it desirable for use in other Belgian style ales as well. A flocculent, true top cropping yeast (additional headspace is recommended), that will work over a broad temperature range. This strain makes a great Belgian style House strain."
+    },
+    {
+      "name": "Belgian Wheat™",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "Wyeast 3942. Isolated from a small Belgian brewery, this strain produces beers with moderate esters and minimal phenolics. Apple, bubblegum and plum-like aromas blend nicely with malt and hops. This strain will finish dry with a hint of tartness."
+    },
+    {
+      "name": "Belgian Witbier™",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "Wyeast 3944. This versatile witbier yeast strain can be used in a variety of Belgian style ales. This strain produces a complex flavor profile dominated by spicy phenolics with low to moderate ester production. It is a great strain choice when you want a delicate clove profile not to be overshadowed by esters. It will ferment fairly dry with a slightly tart finish that compliments the use of oats, malted and unmalted wheat. This strain is a true top cropping yeast requiring full fermenter headspace of 33%."
+    },
+    {
+      "name": "Budvar Lager™",
+      "attenMin": 71,
+      "attenMax": 75,
+      "description": "Wyeast 2000. The Budvar strain has a nice malty nose with subtle fruit tones and a rich malt profile on the palate. It finishes malty but dry, well balanced and crisp. Hop character comes through in the finish."
+    },
+    {
+      "name": "Urquell Lager™",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "Wyeast 2001. With a mild fruit and floral aroma this strain has a very dry and clean palate with a full mouthfeel and nice subtle malt character. It has a very clean and neutral finish."
+    },
+    {
+      "name": "Pilsen Lager™",
+      "attenMin": 71,
+      "attenMax": 75,
+      "description": "Wyeast 2007. The classic American lager strain. This mild, neutral strain produces beers with a nice malty character and a smooth palate. It ferments dry and crisp with minimal sulfur or diacetyl. Beers from this strain exhibit the characteristics of the most popular lager in America."
+    },
+    {
+      "name": "American Lager™ (Wyeast)",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 2035. A complex and aromatic strain that can be used for a variety of lager beers. This strain is an excellent choice for Classic American Pilsner beers."
+    },
+    {
+      "name": "Danish Lager™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 2042. This yeast is a good choice for Dortmund-style lagers. It will ferment crisp and dry with a soft, rounded profile that accentuates hop characteristics."
+    },
+    {
+      "name": "California Lager™",
+      "attenMin": 67,
+      "attenMax": 71,
+      "description": "Wyeast 2112. This strain is particularly well suited for producing California Common-style beers. It retains lager characteristics at temperatures up to 65°F (18°C) and produces malty, brilliantly clear beers. This strain is not recommended for cold temperature fermentation."
+    },
+    {
+      "name": "Bohemian Lager™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 2124. This Carlsberg type yeast is the most widely used lager strain in the world. This strain produces a distinct malty profile with some ester character and a crisp finish. A versatile strain, that is great to use with lagers or Pilsners for fermentations in the 45-55°F (8-12°C) range. It may also be used for Common beer production with fermentations at 65-68°F (18-20°C). A thorough diacetyl rest is recommended after fermentation is complete."
+    },
+    {
+      "name": "Bavarian Lager",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 2206. Used by many German breweries to produce rich, full-bodied, malty beers, this strain is a good choice for bocks and doppelbocks. A thorough diacetyl rest is recommended after fermentation is complete."
+    },
+    {
+      "name": "Czech Pils™",
+      "attenMin": 70,
+      "attenMax": 74,
+      "description": "Wyeast 2278. Originating from the home of great Pilsners in the Czech Republic, this classic strain will finish dry and malty. It is the perfect choice for Bohemian-style Pilsners. Sulfur produced during fermentation can be reduced with warmer fermentation temperatures 58°F (14°C) and will dissipate with conditioning."
+    },
+    {
+      "name": "Munich Lager™",
+      "attenMin": 70,
+      "attenMax": 74,
+      "description": "Wyeast 2308. This is a unique strain, capable of producing fine lagers. It is very smooth, well-rounded and full-bodied. A thorough diacetyl rest is recommended after fermentation is complete."
+    },
+    {
+      "name": "Octoberfest Lager Blend™",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "Wyeast 2633. This blend of lager strains is designed to produce a rich, malty, complex and full bodied Octoberfest style beer. It attenuates well while leaving plenty of malt character and mouthfeel. This strain is low in sulfur production."
+    },
+
+
+    {
+      "name": "California Ale",
+      "attenMin": 73,
+      "attenMax": 80,
+      "description": "White Labs WLP001. This yeast is famous for its clean flavors, balance and ability to be used in almost any style ale. It accentuates the hop flavors and is extremely versatile."
+    },
+    {
+      "name": "English Ale",
+      "attenMin": 63,
+      "attenMax": 70,
+      "description": "White Labs WLP002. A classic ESB strain from one of England's largest independent breweries. This yeast is best suited for English style ales including milds, bitters, porters, and English style stouts. This yeast will leave a beer very clear, and will leave some residual sweetness."
+    },
+    {
+      "name": "German Ale II",
+      "attenMin": 73,
+      "attenMax": 80,
+      "description": "White Labs WLP003. Good for Kölsch, Alt, and German style Pale Ales. Strong sulfur component will reduce with aging. Clean, but with more ester production than WLP029."
+    },
+    {
+      "name": "Irish Ale (White Labs)",
+      "attenMin": 69,
+      "attenMax": 74,
+      "description": "White Labs WLP004. This is the yeast from one of the oldest stout producing breweries in the world. It produces a slight hint of diacetyl, balanced by a light fruitiness and slight dry crispness. Great for Irish ales, stouts, porters, browns, reds and a very interesting pale ale."
+    },
+    {
+      "name": "British Ale",
+      "attenMin": 67,
+      "attenMax": 74,
+      "description": "White Labs WLP005. This yeast is a little more attenuative than WLP002. Like most English strains, this yeast produces malty beers. Excellent for all English style ales including bitter, pale ale, porter, and brown ale."
+    },
+    {
+      "name": "Bedford British",
+      "attenMin": 72,
+      "attenMax": 80,
+      "description": "White Labs WLP006. Ferments dry and flocculates very well. Produces a distinctive ester profile. Good choice for most English style ales including bitter, pale ale, porter, and brown ale."
+    },
+    {
+      "name": "Dry English Ale",
+      "attenMin": 70,
+      "attenMax": 80,
+      "description": "White Labs WLP007. Clean, highly flocculent, and highly attenuative yeast. This yeast is similar to WLP002 in flavor profile, but is 10% more attenuative. This eliminates the residual sweetness, and makes the yeast well suited for high gravity ales. It is also reaches terminal gravity quickly. 80% attenuation will be reached even with 10% ABV beers."
+    },
+    {
+      "name": "East Coast Ale",
+      "attenMin": 70,
+      "attenMax": 75,
+      "description": "White Labs WLP008. Our 'Brewer Patriot' strain can be used to reproduce many of the American versions of classic beer styles. Similar neutral character of WLP001, but less attenuation, less accentuation of hop bitterness, slightly less flocculation, and a little tartness. Very clean and low esters. Great yeast for golden, blonde, honey, pales and German alt style ales."
+    },
+    {
+      "name": "Australian Ale",
+      "attenMin": 70,
+      "attenMax": 75,
+      "description": "White Labs WLP009. Produces a clean, malty beer. Pleasant ester character, can be described as 'bready.' Can ferment successfully, and clean, at higher temperatures. This yeast combines good flocculation with good attenuation."
+    },
+    {
+      "name": "European Ale",
+      "attenMin": 65,
+      "attenMax": 70,
+      "description": "White Labs WLP011. Malty, Northern European-origin ale yeast. Low ester production, giving a clean profile. Little to no sulfur production. Low attenuation helps to contribute to the malty character. Good for Alt, Kolsch, malty English ales, and fruit beers."
+    },
+    {
+      "name": "London Ale (White Labs)",
+      "attenMin": 67,
+      "attenMax": 75,
+      "description": "White Labs WLP013. Dry, malty ale yeast. Provides a complex, oakey ester character to your beer. Hop bitterness comes through well. This yeast is well suited for classic British pale ales, bitters, and stouts. Does not flocculate as much as WLP002 and WLP005."
+    },
+    {
+      "name": "Whitbread Ale (White Labs)",
+      "attenMin": 67,
+      "attenMax": 73,
+      "description": "White Labs WLP017. Traditional mixed yeast culture. British style character, slightly fruity, with a hint of sulfur production. This yeast can be used for many different beer styles. The most traditional choices would be English style ales including milds, bitters, porters, and English style stouts. North American style ales will also benefit from fermentation with WLP017. The beer will clear easily."
+    },
+    {
+      "name": "Essex Ale",
+      "attenMin": 71,
+      "attenMax": 76,
+      "description": "White Labs WLP022. Flavorful British style yeast. Drier finish than many British ale yeast. Produces slightly fruity and bready character. Good top fermenting yeast strain, is well suited for top cropping (collecting). This yeast is well suited for classic British milds, pale ales, bitters, and stouts. Does not flocculate as much as WLP002 and WLP005."
+    },
+    {
+      "name": "Burton Ale",
+      "attenMin": 69,
+      "attenMax": 75,
+      "description": "White Labs WLP023. From the famous brewing town of Burton upon Trent, England, this yeast is packed with character. It provides delicious subtle fruity flavors like apple, clover honey and pear. Great for all English styles, IPA's, bitters, and pales. Excellent in porters and stouts."
+    },
+    {
+      "name": "Edinburgh Scottish Ale",
+      "attenMin": 70,
+      "attenMax": 75,
+      "description": "White Labs WLP028. Scotland is famous for its malty, strong ales. This yeast can reproduce complex, flavorful Scottish style ales. This yeast can be an everyday strain, similar to WLP001. Hop character is not muted with this strain, as it is with WLP002."
+    },
+    {
+      "name": "German Ale/Kölsch",
+      "attenMin": 72,
+      "attenMax": 78,
+      "description": "White Labs WLP029. From a small brewpub in Cologne, Germany, this yeast works great in Kölsch and Alt style beers. Good for light beers like blond and honey. Accentuates hop flavors, similar to WLP001. The slight sulfur produced during fermentation will disappear with age and leave a super clean, lager like ale."
+    },
+    {
+      "name": "Dusseldorf Alt",
+      "attenMin": 65,
+      "attenMax": 72,
+      "description": "White Labs WLP036. Traditional Alt yeast from Dusseldorf, Germany. Produces clean, slightly sweet alt beers. Does not accentuate hop flavor as WLP029 does."
+    },
+    {
+      "name": "Manchester Ale",
+      "attenMin": 70,
+      "attenMax": 74,
+      "description": "White Labs WLP038. Top-fermenting strain that is traditionally good for top-cropping. Moderately flocculent with a clean, dry finish. Low ester profile, producing a highly balanced English-style beer."
+    },
+    {
+      "name": "East Midlands Ale",
+      "attenMin": 73,
+      "attenMax": 82,
+      "description": "White Labs WLP039. British style ale yeast with a very dry finish. Medium to low fruit and fusel alcohol production. Good top fermenting yeast strain, is well suited for top cropping (collecting). This yeast is well suited for pale ales, ambers, porters, and stouts."
+    },
+    {
+      "name": "Pacific Ale",
+      "attenMin": 65,
+      "attenMax": 72,
+      "description": "White Labs WLP041. A popular ale yeast from the Pacific Northwest. The yeast will clear from the beer well, and leave a malty profile. More fruity than WLP002, English Ale Yeast. Good yeast for English style ales including milds, bitters, IPA, porters, and English style stouts."
+    },
+    {
+      "name": "Scotch Whiskey",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP045. A strain that was widely used for Scotch Whisky production from the early 1950s, producing a complex array of ester compounds and fusel oils, as well as some spicy, clove character. Suitable for Scotch Whisky or American-style Whiskey. Used in high-gravity beers."
+    },
+    {
+      "name": "Tennessee Whiskey",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP050. Suitable for American-style whiskey and bourbon. This yeast is famous for creating rich, smooth flavors. Clean and dry fermenting yeast. Will tolerate high alcohol concentrations (15%), and ester production is low. Also popular in high-gravity beers."
+    },
+    {
+      "name": "California Ale V",
+      "attenMin": 70,
+      "attenMax": 75,
+      "description": "White Labs WLP051. From Northern California. This strain is more fruity than WLP001, and slightly more flocculent. Attenuation is lower, resulting in a fuller bodied beer than with WLP001."
+    },
+    {
+      "name": "American Ale Blend",
+      "attenMin": 72,
+      "attenMax": 80,
+      "description": "White Labs WLP060. This blend celebrates the strengths of California- clean, neutral fermentation, versatile usage, and adds two other strains that belong to the same 'clean/neutral' flavor category. The additional strains create complexity to the finished beer. This blend tastes more lager like than WLP001. Hop flavors and bitterness are accentuated, but not to the extreme of California. Slight sulfur will be produced during fermentation."
+    },
+    {
+      "name": "American Whiskey",
+      "attenMin": 76,
+      "attenMax": 82,
+      "description": "White Labs WLP065. Yeast strain that produces low ester profile and moderate fusel oils. Temperature and alcohol tolerant and suitable for American-style whiskey using barley or corn base. Also used in high-gravity beers."
+    },
+    {
+      "name": "Bourbon",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP070. From a tradtional distillery in the heart of Bourbon country, this strain produces a carmel, malty character with balanced ester profile. Suitable for Bourbon or other American Whiskey with barley, rye, or corn as the base grain. Used in high-gravity beers."
+    },
+    {
+      "name": "French Ale",
+      "attenMin": 68,
+      "attenMax": 75,
+      "description": "White Labs WLP072. Clean strain that complements malt flavor. Low to moderate esters, when fermentation temperature is below 70°F.  Moderate plus ester character over 70°F.  Low diacetyl production. Good yeast strain for Biere de Garde, blond, amber, brown ales, and specialty beers."
+    },
+    {
+      "name": "Old Sonoma Ale",
+      "attenMin": 70,
+      "attenMax": 74,
+      "description": "White Labs WLP076. Yeast from an historic brewery in Northern California, this strain was embraced by the early pioneers of craft beer in America and continues to be a great choice for those seeking to use a traditional British-style yeast. A neutral and versatile strain, it is a great choice for pale ales, porters, and stouts."
+    },
+    {
+      "name": "Neutral Grain",
+      "attenMin": 77,
+      "attenMax": 84,
+      "description": "White Labs WLP078. Marked by a clean, fast fermentation, this strain is ideal for any neutral grain spirit. Alcohol and temperature tolerant. Used in high-gravity beers."
+    },
+    {
+      "name": "Cream Ale Blend",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP080. This is a blend of ale and lager yeast strains. The strains work together to create a clean, crisp, light American lager style ale. A pleasing estery aroma may be perceived from the ale yeast contribution. Hop flavors and bitterness are slightly subdued. Slight sulfur will be produced during fermentation, from the lager yeast."
+    },
+    {
+      "name": "English Ale Blend",
+      "attenMin": 69,
+      "attenMax": 76,
+      "description": "White Labs WLP085. A blend of British ale yeast strains, designed to add complexity to your ale. Moderate fruitiness and mineral-like, with little to no sulfur. Drier than WLP002 and WLP005, but with similar flocculation properties. Good yeast blend for English Pale Ale, Bitter, Porter, Stout, and India Pale Ale."
+    },
+    {
+      "name": "San Diego Super",
+      "attenMin": 76,
+      "attenMax": 83,
+      "description": "White Labs WLP090. A super clean, super-fast fermenting strain. A low ester-producing strain that results in a balanced, neutral flavor and aroma profile. Alcohol-tolerant and very versatile for a wide variety of styles. Similar to California Ale Yeast WLP001 but it generally ferments faster."
+    },
+    {
+      "name": "Super High Gravity Ale",
+      "attenMin": 80,
+      "attenMax": 90,
+      "description": "White Labs WLP099. Can ferment up to 25% alcohol. From England. Produces ester character that increases with increasing gravity. Malt character dominates at lower gravities."
+    },
+
+
+    {
+      "name": "Hefeweizen Ale",
+      "attenMin": 72,
+      "attenMax": 76,
+      "description": "White Labs WLP300. This famous German yeast is a strain used in the production of traditional, authentic wheat beers. It produces the banana and clove nose traditionally associated with German wheat beers and leaves the desired cloudy look of traditional German wheat beers."
+    },
+    {
+      "name": "American Hefeweizen Ale",
+      "attenMin": 70,
+      "attenMax": 75,
+      "description": "White Labs WLP320. This yeast is used to produce the Oregon style American Hefeweizen. Unlike WLP300, this yeast produces a very slight amount of the banana and clove notes. It produces some sulfur, but is otherwise a clean fermenting yeast, which does not flocculate well, producing a cloudy beer."
+    },
+    {
+      "name": "Bavarian Weizen",
+      "attenMin": 73,
+      "attenMax": 77,
+      "description": "White Labs WLP351. Former Yeast Lab W51 yeast strain, acquired from Dan McConnell. The description originally used by Yeast Lab still fits: 'This strain produces a classic German-style wheat beer, with moderately high, spicy, phenolic overtones reminiscent of cloves.'"
+    },
+    {
+      "name": "Hefeweizen IV Ale",
+      "attenMin": 73,
+      "attenMax": 80,
+      "description": "White Labs WLP380. Large clove and phenolic aroma and flavor, with minimal banana. Refreshing citrus and apricot notes. Crisp, drinkable hefeweizen. Less flocculent than WLP300, and sulfur production is higher."
+    },
+    {
+      "name": "Belgian Wit",
+      "attenMin": 74,
+      "attenMax": 78,
+      "description": "White Labs WLP400. Slightly phenolic and tart, this is the original yeast used to produce Wit in Belgium."
+    },
+    {
+      "name": "Belgian Wit II",
+      "attenMin": 70,
+      "attenMax": 75,
+      "description": "White Labs WLP410. Less phenolic than WLP400, and more spicy. Will leave a bit more sweetness, and flocculation is higher than WLP400. Use to produce Belgian Wit, spiced Ales, wheat Ales, and specialty Beers. Notice to brewers: Tends to take a long time to start; brewers should plan this into their brewing schedule. Needs heavy aeration and nutrients. Allow temperature to free rise."
+    },
+    {
+      "name": "Monastery Ale",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP500. From one of the few remaining Trappist breweries remaining in the world, this yeast produces the distinctive fruitiness and plum characteristics. Excellent yeast for high gravity beers, Belgian ales, dubbels and trippels. (Formerly known as Trappist Ale Yeast)"
+    },
+    {
+      "name": "Bastogne Belgian Ale",
+      "attenMin": 74,
+      "attenMax": 80,
+      "description": "White Labs WLP510. A high gravity, Trappist style ale yeast. Produces dry beer with slight acidic finish. More ‘clean’ fermentation character than WLP500 or WLP530. Not as spicy as WLP530 or WLP550. Excellent yeast for high gravity beers, Belgian ales, dubbels and trippels."
+    },
+    {
+      "name": "Antwerp Ale",
+      "attenMin": 73,
+      "attenMax": 80,
+      "description": "White Labs WLP515. Clean, almost lager like Belgian type ale yeast. Good for Belgian type pales ales and amber ales, or with blends to combine with other Belgian type yeast strains. Biscuity, ale like aroma present. Hop flavors and bitterness are accentuated. Slight sulfur will be produced during fermentation, which can give the yeast a lager like flavor profile."
+    },
+    {
+      "name": "Abbey Ale",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP530. Used to produce Trappist style beers. Similar to WLP500, but is less fruity and more alcohol tolerant (up to 15% ABV). Excellent yeast for high gravity beers, Belgian ales, dubbels and trippels."
+    },
+    {
+      "name": "Abbey IV Ale",
+      "attenMin": 74,
+      "attenMax": 82,
+      "description": "White Labs WLP540. An authentic Trappist style yeast. Use for Belgian style ales, dubbels, tripples, and specialty beers. Fruit character is medium, in between WLP500 (high) and WLP530 (low). Note: This strain benefits from extra oxygenation"
+    },
+    {
+      "name": "Belgian Strong Ale (White Labs)",
+      "attenMin": 78,
+      "attenMax": 85,
+      "description": "White Labs WLP545. From the Ardennes region of Belgium, this classic yeast strain produces moderate levels of ester and spicy phenolic character. Typically results in a dry, but balanced finish. This yeast is well suited for Belgian dark strongs, Abbey Ales, and Christmas beers."
+    },
+    {
+      "name": "Belgian Ale",
+      "attenMin": 78,
+      "attenMax": 85,
+      "description": "White Labs WLP550. Saisons, Belgian Ales, Belgian Reds, Belgian Browns, and White beers are just a few of the classic Belgian beer styles that can be created with this yeast strain. Phenolic and spicy flavors dominate the profile, with less fruitiness then WLP500."
+    },
+    {
+      "name": "Belgian Saison I",
+      "attenMin": 65,
+      "attenMax": 75,
+      "description": "White Labs WLP565. Classic Saison yeast from Wallonia. It produces earthy, peppery, and spicy notes. Slightly sweet. With high gravity saisons, brewers may wish to dry the beer with an alternate yeast added after 75% fermentation. Note to brewers: This strain tends to stall out in fermentation and then restart as long as two weeks later. Make sure the wort is well-oxygenated and allow the temperature to free rise in order to ensure complete fermentation. Some brewers add WLP001 to finish."
+    },
+    {
+      "name": "Belgian Saison II",
+      "attenMin": 78,
+      "attenMax": 85,
+      "description": "White Labs WLP566. Saison strain with more fruity ester production than with WLP565. Moderately phenolic, with a clove-like characteristic in finished beer flavor and aroma. Ferments faster than WLP565."
+    },
+    {
+      "name": "Belgian Style Saison Blend",
+      "attenMin": 70,
+      "attenMax": 80,
+      "description": "White Labs WLP568. This blend melds Belgian style ale and saison strains. The strains work in harmony to create complex, fruity aromas and flavors. The blend of yeast strains encourages complete fermentation in a timely manner. Phenolic, spicy, earthy, and clove like flavors are also created."
+    },
+    {
+      "name": "Belgian Golden Ale",
+      "attenMin": 73,
+      "attenMax": 78,
+      "description": "White Labs WLP570. From East Flanders, versatile yeast that can produce light Belgian ales to high gravity Belgian beers (12% ABV). A combination of fruitiness and phenolic characteristics dominate the flavor profile. Some sulfur is produced during fermentation, which will dissipate following the end of fermentation."
+    },
+    {
+      "name": "Belgian Style Ale Blend",
+      "attenMin": 74,
+      "attenMax": 80,
+      "description": "White Labs WLP575. A blend of Trappist type yeast (2) and one Belgian ale type yeast. This creates a versatile blend that can be used for Trappist type beer, or a myriad of beers that can be described as 'Belgian type'."
+    },
+    {
+      "name": "Belgian Saison III",
+      "attenMin": 70,
+      "attenMax": 74,
+      "description": "White Labs WLP585. Produces beer with a high fruit ester characteristic, as well as some slight tartness. Finishes slightly malty, which balances out the esters. Also produces low levels of clovey phenolics. Great yeast choice for a summer Saison that is light and easy-drinking."
+    },
+    {
+      "name": "Pilsner Lager",
+      "attenMin": 72,
+      "attenMax": 77,
+      "description": "White Labs WLP800. Classic pilsner strain from the premier pilsner producer in the Czech Republic. Somewhat dry with a malty finish, this yeast is best suited for European pilsner production."
+    },
+    {
+      "name": "Czech Budejovice Lager",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP802. Pilsner lager yeast from Southern Czech Republic. Produces dry and crisp lagers, with low diacetyl production."
+    },
+    {
+      "name": "San Francisco Lager",
+      "attenMin": 65,
+      "attenMax": 70,
+      "description": "White Labs WLP810. This yeast is used to produce the \"California Common\" style beer. A unique lager strain which has the ability to ferment up to 65 degrees while retaining lager characteristics. Can also be fermented down to 50 degrees for production of marzens, pilsners and other style lagers."
+    },
+    {
+      "name": "Belgian Lager",
+      "attenMin": 72,
+      "attenMax": 78,
+      "description": "White Labs WLP815. Clean, crisp European lager yeast with low sulfur  production. The strain originates from a very old brewery in West Belgium. Great for European style pilsners, dark lagers, Vienna lager, and American style lagers."
+    },
+    {
+      "name": "Oktoberfest/Märzen",
+      "attenMin": 65,
+      "attenMax": 73,
+      "description": "White Labs WLP820. This yeast produces a very malty, bock like style. It does not finish as dry as WLP830. This yeast is much slower in the first generation than WLP830, so we encourage a larger starter to be used the first generation or schedule a longer lagering time."
+    },
+    {
+      "name": "German Lager",
+      "attenMin": 74,
+      "attenMax": 79,
+      "description": "White Labs WLP830. This yeast is one of the most widely used lager yeasts in the world. Very malty and clean, great for all German lagers, pilsner, oktoberfest, and marzen."
+    },
+    {
+      "name": "German Bock Lager",
+      "attenMin": 70,
+      "attenMax": 76,
+      "description": "White Labs WLP833. From the Alps of southern Bavaria, this yeast produces a beer that is well balanced between malt and hop character. The excellent malt profile makes it well suited for Bocks, Doppelbocks, and Oktoberfest style beers. Very versatile lager yeast, it is so well balanced that it has gained tremendous popularity for use in Classic American style Pilsners. Also good for Helles style lager beer."
+    },
+    {
+      "name": "Southern German Lager",
+      "attenMin": 68,
+      "attenMax": 76,
+      "description": "White Labs WLP838. This yeast is characterized by a malty finish and balanced aroma. It is a strong fermentor, produces slight sulfur, and low diacetyl."
+    },
+    {
+      "name": "American Lager (White Labs)",
+      "attenMin": 75,
+      "attenMax": 80,
+      "description": "White Labs WLP840. This yeast is used to produce American style lagers. Dry and clean with a very slight apple fruitiness. Sulfur and diacetyl production is minimal."
+    },
+    {
+      "name": "Munich Helles",
+      "attenMin": 68,
+      "attenMax": 72,
+      "description": "White Labs WLP860. This yeast helps to produce a malty, but balanced traditional Munich-style lager. Clean and strong fermenter, it's great for a variety of lager styles ranging from Helles to Rauchbier."
+    },
+    {
+      "name": "Cry Havoc",
+      "attenMin": 66,
+      "attenMax": 70,
+      "description": "White Labs WLP862. Licensed from Charlie Papazian, this strain can ferment at ale and lager temperatures, allowing brewers to produce diverse beer styles. The recipes in both Papazian's books, The Complete Joy of Homebrewing and The Homebrewers Companion, were originally developed and brewed with this yeast."
+    },
+    {
+      "name": "Zurich Lager",
+      "attenMin": 70,
+      "attenMax": 80,
+      "description": "White Labs WLP885. Swiss style lager yeast. With proper care, this yeast can be used to produce lager beer over 11% ABV. Sulfur and diacetyl production is minimal. Original culture provided to White Labs by Marc Sedam."
+    },
+    {
+      "name": "Old Bavarian Lager",
+      "attenMin": 66,
+      "attenMax": 73,
+      "description": "White Labs WLP920. From Southern Germany, this yeast finishes malty with a slight ester profile. Use in beers such as Oktoberfest, Bock, and Dark Lagers."
+    },
+    {
+      "name": "Mexican Lager",
+      "attenMin": 70,
+      "attenMax": 78,
+      "description": "White Labs WLP940. From Mexico City, this yeast produces clean lager beer, with a crisp finish. Good for Mexican style light lagers, as well as dark lagers. This is one of the best lager strains in the White Labs yeast bank; try it with any lager."
+    },
+
+
+
+    {
+      "name": "Safale S-04",
+      "attenMin": 75,
+      "attenMax": 75,
+      "description": "English Ale yeast displaying fast fermentation and excellent sedimentation (flocculation) properties."
+    },
+    {
+      "name": "Safale US-05",
+      "attenMin": 81,
+      "attenMax": 81,
+      "description": "Ready-to-pitch American ale yeast for well balanced beers with low diacetyl and a very crisp end palate."
+    },
+    {
+      "name": "Saflager S-23",
+      "attenMin": 82,
+      "attenMax": 82,
+      "description": "Originating from the famous VLB institute in Germany, true lager yeast capable of producing continental lagers with fruity, estery notes. "
+    },
+    {
+      "name": "Saflager W-34/70",
+      "attenMin": 83,
+      "attenMax": 83,
+      "description": "The most popular lager strain worldwide, from the Weihenstephan institute in Germany."
+    },
+    {
+      "name": "Safbrew T-58",
+      "attenMin": 70,
+      "attenMax": 70,
+      "description": "Spicy, estery flavours ideal for continental beer styles. The right choice for bottle-conditioning."
+    },
+    {
+      "name": "Safbrew S-33",
+      "attenMin": 70,
+      "attenMax": 70,
+      "description": "Robust, high alcohol tolerant yeast for a wide range of top fermented beers."
+    },
+    {
+      "name": "Safbrew WB-06",
+      "attenMin": 86,
+      "attenMax": 86,
+      "description": "A speciality yeast selected for wheat beer fermentations. The yeast produces subtle estery and phenol flavour notes typical of wheat beers. The choice of Wheat or Weizen bier fans."
+    }
+    ]
+}
